@@ -55,6 +55,7 @@ func TestConvert_s2hk_finance(t *testing.T) {
 		"募集資金":     "籌集資金",
 		"套利交易":     "對沖",
 		"下周开始公开配售": "下週開始公開招股",
+		"户":        "戶",
 	}
 
 	s2hk, err := New("s2hk-finance")
