@@ -4,6 +4,6 @@ update\:data:
 	wget https://github.com/BYVoid/OpenCC/archive/refs/heads/master.zip -O tmp/opencc.zip
 	unzip tmp/opencc.zip -d tmp/
 	sh ./merge-data.sh
+
 test:
-	sh ./merge-data.sh
-	go test ./...
+	GO111MODULE=auto go test -cover ./...
