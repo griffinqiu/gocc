@@ -4,12 +4,9 @@ package opencc
 import (
 	"embed"
 	"encoding/json"
-	"flag"
 	"fmt"
-	"os"
 	"path"
 	"reflect"
-	"runtime"
 	"strings"
 
 	"github.com/liuzl/da"
@@ -20,22 +17,6 @@ var cf embed.FS
 
 //go:embed dictionary
 var df embed.FS
-
-var (
-	// Dir is the parent dir for config and dictionary
-	Dir = flag.String("dir", defaultDir(), "dict dir")
-)
-
-func defaultDir() string {
-	if runtime.GOOS == "windows" {
-		return `C:\gocc\`
-	}
-	if goPath, ok := os.LookupEnv("GOPATH"); ok {
-		return goPath + "/src/github.com/longbridgeapp/opencc/"
-	} else {
-		return `/usr/local/share/gocc/`
-	}
-}
 
 // Group holds a sequence of dicts
 type Group struct {
