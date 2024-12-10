@@ -10,7 +10,7 @@
 <p>數據來源：《未盡之美：華住十五年》，海豚投研整理</p><p>從同行對比來看，2021 年 3 月酒店類應用 APP 活躍用戶 TOP 10 中，華住會以 571.7 萬用戶數吊打同行，約為其他九大酒店集團的 2 倍，在增速方面，華住會月活增長仍超過兩位數，達到 18.96%，華住會員質量顯著高於競爭對手。</p>
 <figure class="image"><img src="https://pub.lbkrs.com/cms/2021/0/5y3T22oBPzTCdtMLiDVzzWT5MtZ8zhxk.jpg?x-oss-process=style/lg" alt="" width="865" height="1090"></figure>
 <p>目前我國酒店行業的下游可分為直銷和代銷兩部分銷售渠道，直銷主要依靠會員等自有渠道，代銷渠道以 OTA 為主，兩種銷售模式各有優劣。</p>
-<p>直銷是酒店集團通過會員、中央預訂系統、前台散客、協議客戶等自有渠道進行銷售，典型的代表就是<a href="https://longbridgeapp.com/quote/HTHT.US" target="_blank">華住酒店</a>集團官網及其開發的獨立 APP 華住會。</p>
+<p>直銷是酒店集團通過會員、中央預訂系統、前台散客、協議客戶等自有渠道進行銷售，典型的代表就是<a href="https://longportapp.com/quote/HTHT.US" target="_blank">華住酒店</a>集團官網及其開發的獨立 APP 華住會。</p>
 <p>自有渠道的會員客戶粘性較強，對品牌的忠誠度高，且大量客源與數據的沉澱有利於公司內部的資源共享和高效運營。同時其建設投資成本較高，會員培養也需要一定的時間，由此可見自有渠道直銷更加適合華住這種連鎖酒店集團。</p>
 <p>代銷渠道主要包括 OTA、旅行社、團購等線上線下代銷，目前主要的 OTA 平台包括攜程、同程藝龍、去哪兒等。OTA 平台可以充分利用互聯網的便捷性和流量優勢，向酒店輸送大量客源。</p>
 <p>但隨着佣金費日趨上漲，OTA 渠道成本有所提升，根據艾瑞諮詢相關數據顯示，目前 OTA 的抽成比例已經提高至 15% 以上，因此 OTA 酒店預訂主要應用於品牌知名度較低的中小酒店，以及需要迅速引流的新開業連鎖酒店。</p>
@@ -21,7 +21,7 @@
 <p>在線下渠道中，本地銷售是主要針對酒店所在地的政府、公司以及上門散客，企業銷售是本地銷售的補充，主要與企業客戶進行合作，以 B2B 商業模式為主。</p>
 <p>線上渠道大約佔比 65-70%，其中 OTA 佔比為 15% 左右，華住中央預定系統佔比 55% 左右。華住中央預訂系統主要以<strong>華住會 APP、小程序及官網組成</strong>。</p>
 <figure class="image"><img src="https://pub.lbkrs.com/cms/2021/0/PZEf9UUvRG1WhjpXMNgpy45EKFMoHkmk.jpg?x-oss-process=style/lg" alt="" width="910" height="515"></figure>
-<p>數據來源：海豚投研整理</p><p>目前 OTA 抽傭比例普遍在 15% 以上，而<a href="https://longbridgeapp.com/quote/HTHT.US" target="_blank">華住酒店</a>的 CRS（中央預訂系統）導流費用均在流水的 9% 以下，華住自有渠道的建設，有效對抗了 OTA 代銷的高佣金率，優化了連鎖酒店的成本。</p>
+<p>數據來源：海豚投研整理</p><p>目前 OTA 抽傭比例普遍在 15% 以上，而<a href="https://longportapp.com/quote/HTHT.US" target="_blank">華住酒店</a>的 CRS（中央預訂系統）導流費用均在流水的 9% 以下，華住自有渠道的建設，有效對抗了 OTA 代銷的高佣金率，優化了連鎖酒店的成本。</p>
 <p>海豚君認為作為一個高效的中央預訂平台，華住會的獲客能力已達到甚至超越 OTA 水準，通過直銷優勢取得的客流量，大大降低了酒店對 OTA 的依賴。</p>
 <p>去年三季度，通過 CRS 系統銷售的間夜量佔比已經恢復至 56%，20 年 1-5 月 OTA 銷售間夜量低於 15%，華住的中央預訂平台的優勢明顯。</p>
 <figure class="image"><img src="https://pub.lbkrs.com/cms/2021/0/9n8t5EkyQY13rVfaajPAUiTNz2S924p4.jpg?x-oss-process=style/lg" alt="" width="752" height="452"></figure>
@@ -29,7 +29,7 @@
 <p>值得一提的是，華住會的“積分貨幣化”，就是積分每消費 1 元，得 1 積分，每 100 積分，可當 1 塊現金抵扣，你可以用於抵扣房費，也可以在華住會 APP 上的商城購買商品、兑換福利、用積分拍房費等等。</p>
 <figure class="image"><img src="https://pub.lbkrs.com/cms/2021/0/Azd4oUmR9eWj16MiYnLNwyL7gm96GYVY.jpg?x-oss-process=style/lg" alt="日程表描述已自動生成" width="775" height="526"></figure>
 <p>數據來源：華住官網、海豚投研</p><p>或許你會説，那如果我不是長期在華住消費，積分也沒多少，會員不開也可以。但如果，你的公司有跟華住合作呢？你要出差呢？</p>
-<p>比如你的公司與華住簽訂了差旅協議，如果你是華住會員，住宿所得積分卻能歸到自己的賬戶下，而非公司，這樣在為公司出差時，選擇<a href="https://longbridgeapp.com/quote/HTHT.US" target="_blank">華住酒店</a>並加入會員的人數，大大增加。同時，只要企業跟華住之間有協議，就可以用企業註冊郵箱來直接升級為會員等級，to B、to C 一手抓。</p>
+<p>比如你的公司與華住簽訂了差旅協議，如果你是華住會員，住宿所得積分卻能歸到自己的賬戶下，而非公司，這樣在為公司出差時，選擇<a href="https://longportapp.com/quote/HTHT.US" target="_blank">華住酒店</a>並加入會員的人數，大大增加。同時，只要企業跟華住之間有協議，就可以用企業註冊郵箱來直接升級為會員等級，to B、to C 一手抓。</p>
 <figure class="image"><img src="https://pub.lbkrs.com/cms/2021/0/oXXuEBALxdd1EqBU2yie8CT723REkHFB.jpg?x-oss-process=style/lg" alt="表格描述已自動生成" width="781" height="703"></figure>
 <p>數據來源：華住官網、海豚投研</p><p><strong>二、華住 EBITDA 費率佔優，享平台型企業估值高於面值</strong></p>
 <p>在租賃及自有酒店（即直營）模式下，華住的經營成本主要包括酒店物業的<strong>租金及水電費、租賃裝修的折舊及攤銷、無形資產及土地使用權等相對固定的成本，以及酒店僱員的薪酬及福利半固定開支、酒店客房消費品成本等可變成本。</strong></p>

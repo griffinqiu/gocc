@@ -31,7 +31,7 @@ func defaultDir() string {
 		return `C:\gocc\`
 	}
 	if goPath, ok := os.LookupEnv("GOPATH"); ok {
-		return goPath + "/src/github.com/longbridgeapp/opencc/"
+		return goPath + "/src/github.com/longbridge/opencc/"
 	} else {
 		return `/usr/local/share/gocc/`
 	}

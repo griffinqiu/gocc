@@ -1,4 +1,4 @@
-module github.com/longbridgeapp/opencc
+module github.com/longbridge/opencc
 
 go 1.16
 
